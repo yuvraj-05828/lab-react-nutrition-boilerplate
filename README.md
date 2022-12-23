@@ -1,7 +1,7 @@
 
 ![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
-# ProGrad Lab | REACT - Pro Nutrition
+# Kalvium Lab | REACT - Pro Nutrition
 
 ## Learning Goals
 
@@ -9,17 +9,6 @@ In this exercise, the goal is to apply as many as possible of the concepts you'v
 
 - props and state in react,
 - event handling in react.
-
-## Getting started
-
-1. Fork this repo
-2. Clone this repo
-
-Whenever you create a first significant change, you should make your first commit.
-
-3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
-
-In the end of this document, you will find guidelines on how to submit the exercise.
 
 ### Introduction
 
@@ -93,6 +82,5 @@ You made an awesome application, but you have found a little problem in the UX. 
 
 On the right of each item, add a reset button to let users reset the details of that particular items.
 
-Happy coding! 
-Kalvium :heart:
+Happy coding! :heart:
 
