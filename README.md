@@ -12,7 +12,7 @@ In this exercise, the goal is to apply as many as possible of the concepts you'v
 
 ### Introduction
 
-You just realized that since the beginning of the bootcamp, your diet is not healthy and it may have an impact on your health (and productivity), now and in the long term.
+You just realized that since the beginning of this year, your diet is not healthy, and it may have an impact on your health (and productivity) now and in the long term.
 
 To take care of the food you eat, you decided to create a nutrition app that will track everything you eat!
 
@@ -80,7 +80,7 @@ You made an awesome application, but you have found a little problem in the UX. 
 
 ### Progression 6 | Bonus | Allow the user to reset
 
-On the right of each item, add a reset button to let users reset the details of that particular items.
+On the right of each item, add a reset button to let users reset the details of that particular item.
 
 Happy coding! :heart:
 
